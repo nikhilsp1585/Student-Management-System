@@ -1,0 +1,6 @@
+error - #f2909a
+sidebar - #343a40
+adminpanelheadingbg - #272c30
+textfg - #F0F0F0(whitedull)
+font - ('Bahnschrift',15,'normal')
+sep - #E6E6E6
